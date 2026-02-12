@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#F8F4FF', // fondo lila claro
+    backgroundColor: '#F8F4FF', 
   },
 
   title: {
@@ -60,6 +60,6 @@ const styles = StyleSheet.create({
   },
 
   counterHigh: {
-    color: '#E91E63', // rosa fuerte cuando pasa de 20
+    color: '#E91E63', 
   },
 });

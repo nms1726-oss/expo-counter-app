@@ -7,11 +7,11 @@ export default function TabLayout() {
       screenOptions={{
         headerShown: false,
 
-        tabBarActiveTintColor: '#9C27B0', // morado elegante
-        tabBarInactiveTintColor: '#C8A2FF', // lila suave
+        tabBarActiveTintColor: '#9C27B0', 
+        tabBarInactiveTintColor: '#C8A2FF', 
 
         tabBarStyle: {
-          backgroundColor: '#F8F4FF', // fondo lila claro
+          backgroundColor: '#F8F4FF', 
           borderTopWidth: 0,
           elevation: 10,
           height: 65,

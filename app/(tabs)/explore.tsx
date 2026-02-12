@@ -21,7 +21,7 @@ export default function ProfileScreen() {
       </Text>
 
       <Text style={styles.program}>
-        ADSO - Análisis y Desarrollo de Software
+        ADSO 26 - Análisis y Desarrollo de Software
       </Text>
 
       <Text style={styles.message}>
